@@ -1,7 +1,42 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: 1a
+
+~~Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.~~
+
+A murderer! You have to get to the bottom of this. Mr. Body might've been a dweeb, but he deserves justice.
+
+You spend a moment to look around the room. A couple of things catch your eye.
+
+Helga is speaking with Doctor Database next to Mr. Body in a quiet tone. You can't hear what they're saying from here.
+
+Billy is talking to a group of students, maybe trying to comfort them.
+
+Danny Decrement is looking around the room nervously, wiping sweat from his forehead with handkerchief. Who uses a handkerchief these days?
+
+Mr. Body is lying on the floor with a lead pipe laying beside him.
+
+What do you want to do?
+
+Second Choice: 2a
+
+~~Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.~~
+
+A murderer! You have to get to the bottom of this. Mr. Body might've been a dweeb, but he deserves justice.
+
+You spend a moment to look around the room. A couple of things catch your eye.
+
+Helga is speaking with Doctor Database next to Mr. Body in a quiet tone. You can't hear what they're saying from here.
+
+Billy is talking to a group of students, maybe trying to comfort them.
+
+Danny Decrement is looking around the room nervously, wiping sweat from his forehead with handkerchief. Who uses a handkerchief these days?
+
+Mr. Body is lying on the floor with a lead pipe laying beside him.
+
+What do you want to do?
+
+Third Choice: 
+Fourth Choice: 
+Fifth Choice: 
+Sixth Choice: 
