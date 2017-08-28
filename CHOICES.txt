@@ -1,6 +1,6 @@
 CHOICES
 
-First Choice: _2b.md___
+First Choice: _2b___
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
