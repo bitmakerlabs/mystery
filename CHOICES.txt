@@ -2,7 +2,7 @@ CHOICES
 
 
 First Choice: 1
-Second Choice: ____
+Second Choice: 1
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
