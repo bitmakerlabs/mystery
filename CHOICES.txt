@@ -4,5 +4,6 @@ First Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/1b.md
               https://github.com/bitmakerlabs/mystery/blob/master/story/1a.md
 Second Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/2a.md
 Third Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/3c.md
-Fourth Choice: ____
-Fifth Choice: ____
+Fourth Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/3a.md
+Fifth Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/4a.md
+Sixth Choice: https://github.com/bitmakerlabs/mystery/blob/master/story/3b.md
