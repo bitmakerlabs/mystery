@@ -1,7 +1,11 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: 2a.md
+Second Choice: 3b.md
+Third Choice: 4c.md
+Fourth Choice: 3a.md
+Fifth Choice: 4b.md
+Sixth Choice: 3c.md
+Seventh Choice: 3a.md
+Eighth Choice: 4b.md
+Ninth Choice:  5a.md
