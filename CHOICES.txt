@@ -1,7 +1,15 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
+First Choice: _1_Stick with the PB&J your mom packed you. You're really looking forward to those Hip Tunes..__
+Second Choice: _1__Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done._
+Third Choice: __3__Approach Danny
+<<<<<<< HEAD
+Fourth Choice: _1 Listen in on what he's saying
+Fifth Choice: ____2 Approach Helga and the Doctor
+
+6th choice 2 Approach Billy
+
+7th choice 1 As if! Billy's acting weird. He's clearly hiding something. Accuse Billy
+Fourth Choice: _1___
 Fifth Choice: ____
+>>>>>>> parent of 91957c8... 4.1
