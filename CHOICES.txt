@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: Picked PB&J
 Second Choice: help find the murderer
-Third Choice: ____
+Third Choice: approach danny
 Fourth Choice: ____
 Fifth Choice: ____
