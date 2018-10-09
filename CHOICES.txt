@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: Take PB&J Sandwich
 Second Choice: help find murderer
-Third Choice: ____
+Third Choice: approach billy
 Fourth Choice: ____
 Fifth Choice: ____
