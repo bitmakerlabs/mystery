@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
+First Choice: Picked PB&J
+Second Choice: help find the murderer
+Third Choice: approach danny
+Fourth Choice: accuse this mofo (danny)
 Fifth Choice: ____
