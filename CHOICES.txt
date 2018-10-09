@@ -1,7 +1,7 @@
 CHOICES
 
 First Choice: Take PB&J Sandwich
-Second Choice: ____
+Second Choice: help find murderer
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
