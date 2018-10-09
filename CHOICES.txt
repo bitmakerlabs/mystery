@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
+First Choice: Take the PB&J sandwich
+Second Choice: help find murderer
+Third Choice: approach helga and doc
+Fourth Choice: accuse helga
 Fifth Choice: ____
