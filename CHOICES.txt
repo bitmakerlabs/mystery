@@ -1,6 +1,6 @@
 CHOICES
 
-First Choice: ____
+First Choice: Take PB&J Sandwich
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
