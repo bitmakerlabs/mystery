@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: Take the PB&J sandwich
 Second Choice: help find murderer
-Third Choice: ____
+Third Choice: approach helga and doc
 Fourth Choice: ____
 Fifth Choice: ____
