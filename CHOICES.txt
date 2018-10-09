@@ -3,5 +3,5 @@ CHOICES
 First Choice: Stick with the PB&J your mom packed you. You're really looking forward to those Hip Tunes.
 Second Choice: Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.
 Third Choice: Approach Danny
-Fourth Choice: ____
+Fourth Choice: You've seen enough. Danny's clearly guilty! Taking out the trash? Cleaning up the mess? Come on. Accuse Danny.
 Fifth Choice: ____
