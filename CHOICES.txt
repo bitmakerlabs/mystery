@@ -3,5 +3,5 @@ CHOICES
 First Choice: _1a___
 Second Choice: _2a___
 Third Choice: __4a__
-Fourth Choice: ____
-Fifth Choice: ____
+Fourth Choice: _3b___
+Fifth Choice: __3c__
