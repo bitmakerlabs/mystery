@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: Picked PB&J
+Second Choice: help find the murderer
+Third Choice: approach both danny and billy
+Fourth Choice: accuse both danny and billy
+Fifth Choice: 
